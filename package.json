@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "commander": "~2.9",
-    "http-proxy": "~1.13.2",
+    "http-proxy": "~1.18.1",
     "lynx": "^0.2.0",
     "strftime": "~0.9",
     "winston": "~2.2"
